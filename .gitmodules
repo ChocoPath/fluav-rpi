@@ -1,6 +1,3 @@
-[submodule "src/uav_core"]
-	path = src/uav_core
-	url = https://github.com/Di4l/fluav-core.git
 [submodule "uav_core"]
 	path = uav_core
 	url = https://github.com/Di4l/fluav-core.git
