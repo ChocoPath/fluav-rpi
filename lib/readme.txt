@@ -1,0 +1,1 @@
+This folder is where all libraries compiled will end up. It shall serve as a node where modules/projects can link to should they need to use any of the compiled libraries.
